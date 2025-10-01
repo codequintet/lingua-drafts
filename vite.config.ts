@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   // Set base to repository name for GitHub Pages
   // For example: if your repo is 'my-app', set base to '/my-app/'
   // If deploying to username.github.io, keep base as '/'
-  base: '/',
+  base: '/lingua-drafts/',
   server: {
     host: "::",
     port: 8080,
